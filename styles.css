@@ -89,14 +89,22 @@ nav a.linkedin {
   nav a.linkedin:hover {
     text-decoration: underline;
   }
+
+  nav a.linkedin:visited {
+    color: #190836;
+}
+
   
   /* Facebook specific styles */
   nav a.facebook {
-    color: #1DA1F2; /* Sky blue for Facebook */
+    color: #2f23b6; /* Sky blue for Facebook */
   }
   
   nav a.facebook:hover {
     text-decoration: underline;
+  }
+  nav a.facebook:visited{
+    color: #190836;
   }
   
   /* YouTube specific styles */
