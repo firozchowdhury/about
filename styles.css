@@ -9,7 +9,7 @@ body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #b7b7f7;
+            background-color: #9898e5;
             color: #333;
 }
 
@@ -58,7 +58,7 @@ h1, h2 {
 
 /* Links */
 a {
-    color: #5d0e0e;
+    color: #0b0202;
 }
 
 a:visited {
